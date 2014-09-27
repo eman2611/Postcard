@@ -13,6 +13,10 @@
 		9400105A19D4B8910018BC8E /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 9400105919D4B8910018BC8E /* Images.xcassets */; };
 		9400105D19D4B8910018BC8E /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 9400105B19D4B8910018BC8E /* LaunchScreen.xib */; };
 		9400106919D4B8920018BC8E /* PostcardTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9400106819D4B8920018BC8E /* PostcardTests.swift */; };
+		9400107319D4C1FB0018BC8E /* section3bg.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 9400107219D4C1FB0018BC8E /* section3bg.jpg */; };
+		9400107519D4C3450018BC8E /* Screen Shot 2014-08-16 at 7.28.51 PM.png in Resources */ = {isa = PBXBuildFile; fileRef = 9400107419D4C3450018BC8E /* Screen Shot 2014-08-16 at 7.28.51 PM.png */; };
+		9400107719D4C37D0018BC8E /* SmarterSocket (1) (1).jpg in Resources */ = {isa = PBXBuildFile; fileRef = 9400107619D4C37D0018BC8E /* SmarterSocket (1) (1).jpg */; };
+		9400107919D4C8810018BC8E /* me_Azih.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 9400107819D4C8810018BC8E /* me_Azih.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -36,6 +40,10 @@
 		9400106219D4B8920018BC8E /* PostcardTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = PostcardTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		9400106719D4B8920018BC8E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		9400106819D4B8920018BC8E /* PostcardTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PostcardTests.swift; sourceTree = "<group>"; };
+		9400107219D4C1FB0018BC8E /* section3bg.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = section3bg.jpg; sourceTree = "<group>"; };
+		9400107419D4C3450018BC8E /* Screen Shot 2014-08-16 at 7.28.51 PM.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Screen Shot 2014-08-16 at 7.28.51 PM.png"; sourceTree = "<group>"; };
+		9400107619D4C37D0018BC8E /* SmarterSocket (1) (1).jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "SmarterSocket (1) (1).jpg"; sourceTree = "<group>"; };
+		9400107819D4C8810018BC8E /* me_Azih.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = me_Azih.jpg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -82,6 +90,7 @@
 				9400105619D4B8910018BC8E /* Main.storyboard */,
 				9400105919D4B8910018BC8E /* Images.xcassets */,
 				9400105B19D4B8910018BC8E /* LaunchScreen.xib */,
+				9400107619D4C37D0018BC8E /* SmarterSocket (1) (1).jpg */,
 				9400105019D4B8910018BC8E /* Supporting Files */,
 			);
 			path = Postcard;
@@ -90,6 +99,9 @@
 		9400105019D4B8910018BC8E /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				9400107819D4C8810018BC8E /* me_Azih.jpg */,
+				9400107419D4C3450018BC8E /* Screen Shot 2014-08-16 at 7.28.51 PM.png */,
+				9400107219D4C1FB0018BC8E /* section3bg.jpg */,
 				9400105119D4B8910018BC8E /* Info.plist */,
 			);
 			name = "Supporting Files";
@@ -194,7 +206,11 @@
 			files = (
 				9400105819D4B8910018BC8E /* Main.storyboard in Resources */,
 				9400105D19D4B8910018BC8E /* LaunchScreen.xib in Resources */,
+				9400107519D4C3450018BC8E /* Screen Shot 2014-08-16 at 7.28.51 PM.png in Resources */,
+				9400107719D4C37D0018BC8E /* SmarterSocket (1) (1).jpg in Resources */,
+				9400107319D4C1FB0018BC8E /* section3bg.jpg in Resources */,
 				9400105A19D4B8910018BC8E /* Images.xcassets in Resources */,
+				9400107919D4C8810018BC8E /* me_Azih.jpg in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
